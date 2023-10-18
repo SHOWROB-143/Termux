@@ -1,4 +1,4 @@
-<h1 align="center">myTermux</h1>
+<h1 align="center">SHOWROB BANNER</h1>
 
 <p align="center">This is my personal configuration for my favorite Termux</p>
 
@@ -47,7 +47,7 @@ pkg i -y git bc
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/mayTermux/myTermux.git
+git clone --depth=1 https://github.com/SHOWROB-143/Termux
 ```
 
   </details>
@@ -58,7 +58,7 @@ git clone --depth=1 https://github.com/mayTermux/myTermux.git
 - Move to Folder
 
 ```bash
-cd myTermux
+cd Termux
 ```
 
 - export variable `COLUMNS` and `LINES`
@@ -169,17 +169,7 @@ export COLUMNS LINES
 
   ![nyancat_out](https://user-images.githubusercontent.com/64394320/170211265-40e42967-1aee-40ad-9a39-11e9a45139ee.png)
 
-## Credits
 
-- [siduck](https://github.com/siduck) Neovim Setup (NvChad), Colorscheme (onedark-siduck)
-- [owl4ce](https://github.com/owl4ce) First time getting to know dotfiles
-- [adi1090x](https://github.com/adi1090x) Termux Setup
-- [bandithijo](https://github.com/bandithijo) Awesome screenshot like MacOS using imagemagick script
-- [lwotcynna](https://github.com/lwotcynna) Contibutor
-- [nekonako](https://github.com/nekonako) Colorscheme nekonako-djancoeg, nekonako-hue, nekonako-om-mar
-- [Dotfiles Indonesia](https://t.me/dotfiles_id)
-- [Vim Indonesia](https://t.me/VimID)
-- [Bashid.org](https://t.me/bashidorg)
 
 ## Colorscheme
 
