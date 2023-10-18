@@ -11,7 +11,7 @@
 
 > Click this thumbnail below to see video installation
 
-[![myTermux Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "myTermux - Installation")
+[![myTermux Thumbnail](https://i.postimg.cc/yNP7bH57/IMG-20231019-020613.jpg)](https://www.youtube.com/watch?v=sYkNxK_44Zg "myTermux - Installation")
 
 ## Installation Dependecies
 
@@ -97,9 +97,9 @@ export COLUMNS LINES
 
 - System Fetch
 
-  > rxfetch
+  > MR.TOM
 
-  ![rxfetch](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)
+  ![SHOWROB](https://i.postimg.cc/yNP7bH57/IMG-20231019-020613.jpg)
 
   > neofetch
 
