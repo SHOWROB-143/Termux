@@ -26,7 +26,15 @@ echo -e "\e[4 q"
 
 #neo
 #clear
-showrob-143
+#showrob-143
+echo " TOOL CREATED BY SHOWROB CHOWDHURY" | lolcat
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ " | lolcat
+┳┓┏┓┳┓┓┏┓  ┏┓┏┓┳┓┏┓┏┓  ━┓┓
+┃┃┣┫┣┫┃┫   ┣ ┃┃┣┫┃ ┣ ━━ ┃┃
+┻┛┛┗┛┗┛┗┛  ┻ ┗┛┛┗┗┛┗┛   ╹┻
+"
+figlet -f slant DARK FORCE -71| lolcat
+                          
 
 # SSH for Git & GitHub!
 #SSH_ENV="${HOME}/.ssh/agent-environment"
