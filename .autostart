@@ -29,11 +29,16 @@ clear
 #showrob-143
 echo " TOOL CREATED BY SHOWROB CHOWDHURY" | lolcat
 echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ " | lolcat
-┳┓┏┓┳┓┓┏┓  ┏┓┏┓┳┓┏┓┏┓  ━┓┓
-┃┃┣┫┣┫┃┫   ┣ ┃┃┣┫┃ ┣ ━━ ┃┃
-┻┛┛┗┛┗┛┗┛  ┻ ┗┛┛┗┗┛┗┛   ╹┻
+
+██████  ███████       ███████  ██ 
+██   ██ ██                 ██ ███ 
+██   ██ █████   █████     ██   ██ 
+██   ██ ██               ██    ██ 
+██████  ██               ██    ██ 
+                                  
+                                  
 "
-figlet -f slant DARK FORCE -71| lolcat
+echo " DARK FORCE -71 " | lolcat
                           
 
 # SSH for Git & GitHub!
