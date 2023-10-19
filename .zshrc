@@ -11,10 +11,10 @@ plugins=(
 PATH="$PREFIX/bin:$HOME/.local/bin:$PATH"
 export PATH
 
-LINK="https://github.com/SHOWROB-143"
+LINK="https://github.com/myTermux"
 export LINK
 
-LINK_SSH="git@github.com:SHOWROB-143"
+LINK_SSH="git@github.com:myTermux"
 export LINK_SSH
 
 export TERM=xterm-256color 
